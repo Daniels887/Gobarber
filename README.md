@@ -2,7 +2,14 @@
 
 ## Desenvolvimento da API
 
-### Dependências utilizadas: Sequelize, express, eslint, prettier, nodemon, jsonwebtoken (JWT) e banco de Dados PostgreSQL
+### Dependências utilizadas: 
+* Sequelize
+* express,
+* eslint,
+* prettier,
+* nodemon,
+* jsonwebtoken (JWT)
+* PostgreSQL (pg, pg-hstore)
 
 API desenvolvida durante o Bootcamp da Rocketseat, utilizando o conceito de middlewares, migrations e orientação a objetos em JavaScript.
 
