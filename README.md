@@ -3,13 +3,15 @@
 ## Desenvolvimento da API
 
 ### Dependências utilizadas: 
-* Sequelize
+* sequelize
 * express,
 * eslint,
 * prettier,
 * nodemon,
 * jsonwebtoken (JWT)
 * PostgreSQL (pg, pg-hstore)
+
+- [] Teste
 
 API desenvolvida durante o Bootcamp da Rocketseat, utilizando o conceito de middlewares, migrations e orientação a objetos em JavaScript.
 
