@@ -1,4 +1,4 @@
-# GoBarber - Bootcamp da Rocketseat 8.0
+# GoBarber - Bootcamp da Rocketseat
 
 ## Desenvolvimento da API
 
