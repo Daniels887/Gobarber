@@ -1,4 +1,4 @@
-# GoBarber - Bootcamp da Rocketseat 8.0
+# GoBarber - Bootcamp da Rocketseat
 
 ## Desenvolvimento da API
 
@@ -10,6 +10,7 @@
 * nodemon,
 * jsonwebtoken (JWT)
 * PostgreSQL (pg, pg-hstore)
+* multer
 
 API desenvolvida durante o Bootcamp da Rocketseat, utilizando o conceito de middlewares, migrations e orientação a objetos em JavaScript.
 
