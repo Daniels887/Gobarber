@@ -3,16 +3,22 @@
 ## Desenvolvimento da API
 
 ### Dependências utilizadas: 
-* sequelize
-* express,
-* eslint,
-* prettier,
-* nodemon,
-* jsonwebtoken (JWT)
+* Sequelize
+* Express,
+* Eslint,
+* Prettier,
+* Nodemon,
+* Jsonwebtoken (JWT)
 * PostgreSQL (pg, pg-hstore)
-* multer
-* date-fns
+* Multer
+* Date-fns
 * MongoDB (mongoose)
+* Nodemailer
+* Sentry
+* Redis
+* Bee-queue
+* Handlebars
+* Dotenv
 
 API desenvolvida durante o Bootcamp da Rocketseat, utilizando o conceito de middlewares, migrations e orientação a objetos em JavaScript.
 
