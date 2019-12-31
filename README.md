@@ -11,6 +11,7 @@
 * Jsonwebtoken (JWT)
 * PostgreSQL (pg, pg-hstore)
 * Multer
+* Yup
 * Date-fns
 * MongoDB (mongoose)
 * Nodemailer
@@ -19,6 +20,7 @@
 * Bee-queue
 * Handlebars
 * Dotenv
+* Youch
 
 API desenvolvida durante o Bootcamp da Rocketseat, utilizando o conceito de middlewares, migrations e orientação a objetos em JavaScript.
 
