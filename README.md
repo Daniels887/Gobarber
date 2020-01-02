@@ -4,10 +4,10 @@
 
 ### Dependências utilizadas: 
 * Sequelize
-* Express,
-* Eslint,
-* Prettier,
-* Nodemon,
+* Express
+* Eslint
+* Prettier
+* Nodemon
 * Jsonwebtoken (JWT)
 * PostgreSQL (pg, pg-hstore)
 * Multer
