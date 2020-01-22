@@ -1,8 +1,8 @@
 # GoBarber - Bootcamp da Rocketseat
 
-## Desenvolvimento da API
+## Api desenvolvida como projeto principal do Bootcamp da Rocketseat
 
-### Dependências utilizadas: 
+### Techs
 * Sequelize
 * Express
 * Eslint
@@ -21,7 +21,5 @@
 * Handlebars
 * Dotenv
 * Youch
-
-API desenvolvida durante o Bootcamp da Rocketseat, utilizando o conceito de middlewares, migrations e orientação a objetos em JavaScript.
 
 > Que a força esteja com você
