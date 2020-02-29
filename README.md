@@ -1,16 +1,17 @@
 # GoBarber - Bootcamp da Rocketseat
 
-## Desenvolvimento da API
+## Api desenvolvida como projeto principal do Bootcamp da Rocketseat
 
-### Dependências utilizadas: 
+### Techs
 * Sequelize
-* Express,
-* Eslint,
-* Prettier,
-* Nodemon,
+* Express
+* Eslint
+* Prettier
+* Nodemon
 * Jsonwebtoken (JWT)
 * PostgreSQL (pg, pg-hstore)
 * Multer
+* Yup
 * Date-fns
 * MongoDB (mongoose)
 * Nodemailer
@@ -19,7 +20,6 @@
 * Bee-queue
 * Handlebars
 * Dotenv
-
-API desenvolvida durante o Bootcamp da Rocketseat, utilizando o conceito de middlewares, migrations e orientação a objetos em JavaScript.
+* Youch
 
 > Que a força esteja com você
